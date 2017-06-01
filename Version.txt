@@ -1,4 +1,4 @@
-IslamDB API Web Service
+MuslimMate API Web Service
 
 Version 1.0
 ========================================
